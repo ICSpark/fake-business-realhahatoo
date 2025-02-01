@@ -19,7 +19,7 @@ a:hover {
 
 #logo-container {
     /* Change me! */
-    background-image: url('image-examples/Logo-example.png');
+    background-image: url('https://www.vevox.com/getmedia/ce94fda1-21ab-4893-a0be-f59777456638/shutterstock_390983137.jpg');
     
     /* Centers the image */
     background-position: center center;
@@ -77,12 +77,12 @@ a:hover {
     flex-direction: column;
     /* background-color: #E5E4E2; */
     width: fit-content;
-    height: 50%;
+    height: 50%x;
 }
 
 .item-img {
-    width: fit-content;
-    height: 50%;
+    height: 10px;
+    width: 10px;
 }
 
 .item-descriptor {
